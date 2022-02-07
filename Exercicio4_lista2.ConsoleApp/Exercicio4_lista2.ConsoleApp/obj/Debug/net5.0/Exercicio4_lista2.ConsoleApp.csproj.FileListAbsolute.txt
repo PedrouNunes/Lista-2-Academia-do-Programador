@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\ref\Exercicio4_lista2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\bin\Debug\net5.0\Exercicio4_lista2.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\ref\Exercicio4_lista2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Lista 2\Exercicio4_lista2.ConsoleApp\Exercicio4_lista2.ConsoleApp\obj\Debug\net5.0\Exercicio4_lista2.ConsoleApp.genruntimeconfig.cache

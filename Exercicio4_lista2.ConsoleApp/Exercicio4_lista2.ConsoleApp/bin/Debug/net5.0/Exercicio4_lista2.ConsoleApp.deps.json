@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio4_lista2.ConsoleApp/1.0.0": {
+        "runtime": {
+          "Exercicio4_lista2.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio4_lista2.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
